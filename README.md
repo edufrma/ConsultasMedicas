@@ -9,7 +9,7 @@ DB_USER=[Usuário do banco de dados]
 DB_PASSWORD=[Senha do usuário]
 DB_HOST=[URL de acesso ao banco de dados]
 DB_PORT=[Porta do banco de dados]
-DB_NAME=[Nome da *database*]
+DB_NAME=[Nome da database]
 ```
 
 Por fim, ao rodar o código pela primeira vez, devem-se instalar os pacotes necessários do Node. Para isso, rode nos diretórios "./cons-med" e "./backend" o comando:
